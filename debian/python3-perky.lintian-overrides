@@ -1,0 +1,4 @@
+python3-perky: copyright-without-copyright-notice
+python3-perky: initial-upload-closes-no-bugs
+python3-perky: no-manual-page
+python3-perky: zero-byte-file-in-doc-directory
