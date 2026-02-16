@@ -1,0 +1,4 @@
+python-perky source: file-without-copyright-information
+python-perky source: no-debian-changes
+python-perky source: source-contains-prebuilt-windows-binary
+python-perky source: source-package-encodes-python-version
